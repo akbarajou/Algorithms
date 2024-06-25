@@ -6,7 +6,7 @@
 *.log
 
 # VS Code files
-.vscode/
+# .vscode/
 /bin/
 
 # IntelliJ IDEA files
